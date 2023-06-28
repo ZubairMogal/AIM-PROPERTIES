@@ -1,0 +1,21 @@
+body{
+	background: linear-gradient(100deg, #fdcd3b 70%, #ffed4b 70%);
+	}
+.btn 
+{
+	color: whitesmoke;
+	font-size: 1rem;
+	border-radius: 300em;
+	background-color: orangered;
+}
+.btn:hover
+{
+	background-color: darkred;
+	border-color: darkred;
+	border-width: 1px;
+}
+h3{
+	background-color:lightre;
+}
+
+

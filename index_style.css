@@ -1,0 +1,71 @@
+/*Selector {
+	Property: value;
+}*/
+
+body
+{
+	background:url('bg.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	background-attachment: fixed;
+	
+}
+h1
+{
+	font-size: 400%;
+	font-family: 'Ubuntu', sans-serif;
+	color: whitesmoke;
+	text-align: center;
+}
+h3
+{
+	color: whitesmoke;
+	text-align: center;
+	opacity: 0.8;
+}
+h4
+{
+	color: whitesmoke;
+	background:orangered;
+	opacity: 0.7;
+	
+}
+#div1
+{
+	text-align: right;
+}
+a
+{
+	color: whitesmoke;
+}
+
+.btn 
+{
+	color:navy;
+	font-size: 1rem;
+	border-radius: 4rem;
+	background-color: whitesmoke;
+	border-color: whitesmoke;
+}
+.btn:hover
+{
+	background-color: darkred;
+	border-color: darkred;
+	border-width: 1px;
+}
+
+.btn-xl
+{
+	padding: 1rem 2rem;
+
+
+}
+section{
+	text-align: center;
+}
+.grid-container{
+	display: grid;
+	grid-template-columns: 1fr 1fr ;
+	gap: 10px;
+}
